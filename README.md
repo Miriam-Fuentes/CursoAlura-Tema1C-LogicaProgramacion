@@ -1,5 +1,5 @@
 Curso Alura
-Tema : Lógica de programción ( Loops y tentativas )
+Tema : Lógica de programación ( Loops y tentativas )
 
 En esta lección:
 
